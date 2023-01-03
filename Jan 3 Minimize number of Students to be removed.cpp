@@ -1,3 +1,4 @@
+Question:
 N Students of different heights are attending an assembly. The heights of the students 
 are represented by an array H[]. The problem is that if a student has less or equal 
 height than the student standing in front of him, then he/she cannot see the assembly. 

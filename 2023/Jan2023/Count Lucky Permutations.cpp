@@ -12,7 +12,9 @@ N = 3, M = 2
 arr = {1, 2, 3}
 graph = {{3, 1}, {1, 2}}
 Output: 2
+  
 Explanation:
+
 All possible permutations of the 
 array are as follows-
 {1,2,3}: There is an edge between 1 and 

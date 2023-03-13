@@ -12,8 +12,7 @@ Input:
 N = 4
 A[] = {3,4,6,5}
 B[] = {2,3,1,6}
-Output: 
-38
+Output: 38
 Explanation: 
 There are 2 sticks of length 3.
 There are 3 sticks of length 4.
